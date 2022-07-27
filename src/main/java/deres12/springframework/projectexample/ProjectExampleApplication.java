@@ -1,4 +1,4 @@
-package deres12.springframework;
+package deres12.springframework.projectexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
