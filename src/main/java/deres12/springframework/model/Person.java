@@ -1,4 +1,4 @@
-package deres12.springframework.projectexample.model;
+package deres12.springframework.model;
 
 public class Person {
     private String firstName;

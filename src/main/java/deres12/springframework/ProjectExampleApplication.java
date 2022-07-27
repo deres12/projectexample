@@ -1,13 +1,13 @@
-package deres12.springframework.projectexample;
+package deres12.springframework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjectexampleApplication {
+public class ProjectExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectexampleApplication.class, args);
+		SpringApplication.run(ProjectExampleApplication.class, args);
 	}
 
 }
